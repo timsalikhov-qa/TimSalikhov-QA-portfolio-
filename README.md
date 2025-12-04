@@ -3,12 +3,12 @@
 
 # [Web Testing](https://github.com/timsalikhov-qa/web-testing-project.git)
 Полный цикл тестирования веб-приложения OrangeHRM: тест-планы, чек-листы, тест-кейсы, баг-репорты.
-# [API Testing (Postman)](https://github.com/timsalikhov-qa/api-testing-postman.git)  
-Автоматизированное тестирование REST API с коллекциями Postman, валидацией схем и CI/CD.
 # [Test Design (примеры)](https://github.com/timsalikhov/test-design-examples)
 Практическое применение техник тест-дизайна: граничные значения, классы эквивалентности, таблицы решений.
 # [SQL](https://github.com/timsalikhov-qa/sql.git)
 SQL-запросы для проверки данных в БД, поиска дубликатов и анализа целостности.
+# [API Testing (Postman)](https://github.com/timsalikhov-qa/api-testing-postman.git)  
+Автоматизированное тестирование REST API с коллекциями Postman, валидацией схем и CI/CD.
 
 # Технические навыки:
 
