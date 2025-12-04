@@ -1,11 +1,5 @@
 # Тимур Салихов
 **Привет! Я QA Engineer с опытом ручного тестирования. Это портфолио демонстрирует мои практические навыки**
-## Контакты
-- **Телефон:** +7 777 256 53 89
-- **Email:** mail@tsalikhov.ru
-- **Telegram:** @timuverse
-- **Резюме:** [CV.pdf](https://github.com/timsalikhov-qa/TimSalikhov-QA-portfolio-/blob/main/CV(Dec).pdf))
-
 # [Web Testing](https://github.com/timsalikhov-qa/web-testing.git)
 Полный цикл тестирования веб-приложения OrangeHRM: тест-планы, чек-листы, тест-кейсы, баг-репорты.
 # [Test Design (примеры)](https://github.com/timsalikhov-qa/test-design.git)
@@ -24,3 +18,9 @@ SQL-запросы для проверки данных в БД, поиска д
 **API тестирование** | REST, JSON, валидация ответов, работа с токенами |  
 **Базы данных** | SQL запросы (SELECT, JOIN, WHERE) |  
 **Платформы** | Web (Chrome, Firefox, Safari) + Mobile responsive |  
+
+## Контакты
+- **Телефон:** +7 777 256 53 89
+- **Email:** mail@tsalikhov.ru
+- **Telegram:** [@timuverse] (https://t.me/timuverse)
+- **Резюме:** [CV.pdf](https://github.com/timsalikhov-qa/TimSalikhov-QA-portfolio-/blob/main/CV(Dec).pdf)
