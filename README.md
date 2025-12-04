@@ -4,11 +4,7 @@
 - **Телефон:** +7 777 256 53 89
 - **Email:** mail@tsalikhov.ru
 - **Telegram:** @timuverse
-- **Резюме:** [CV.pdf](## 📞 Контакты
-- **Телефон:** +7 777 256 53 89
-- **Email:** mail@tsalikhov.ru
-- **Telegram:** @timsalikhov
-- **Резюме:** [CV.pdf](https://github.com/timsalikhov/qa-portfolio/raw/main/CV.pdf))
+- **Резюме:** [CV.pdf](https://github.com/timsalikhov-qa/TimSalikhov-QA-portfolio-/blob/main/CV(Dec).pdf))
 
 # [Web Testing](https://github.com/timsalikhov-qa/web-testing.git)
 Полный цикл тестирования веб-приложения OrangeHRM: тест-планы, чек-листы, тест-кейсы, баг-репорты.
