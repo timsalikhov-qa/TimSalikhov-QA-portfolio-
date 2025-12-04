@@ -12,10 +12,10 @@ SQL-запросы для проверки данных в БД, поиска д
 
 # Технические навыки:
 
-| **Функциональное тестирование** | Тестирование веб-приложений, проверка бизнес-логики |  
-| **Тест-дизайн** | EP, BVA, Decision Table, State Transition, Pairwise |  
-| **Документация** | Тест-кейсы, чек-листы, баг-репорты (Jira/YouTrack формат) |  
-| **Инструменты** | Postman, DevTools, TestRail, Git, Android Studio/Xcode |  
-| **API тестирование** | REST, JSON, валидация ответов, работа с токенами |  
-| **Базы данных** | SQL запросы (SELECT, JOIN, WHERE) |  
-| **Платформы** | Web (Chrome, Firefox, Safari) + Mobile responsive |  
+**Функциональное тестирование** | Тестирование веб-приложений, проверка бизнес-логики |  
+**Тест-дизайн** | EP, BVA, Decision Table, State Transition, Pairwise |  
+**Документация** | Тест-кейсы, чек-листы, баг-репорты (Jira/YouTrack формат) |  
+**Инструменты** | Postman, DevTools, TestRail, Git, Android Studio/Xcode |  
+**API тестирование** | REST, JSON, валидация ответов, работа с токенами |  
+**Базы данных** | SQL запросы (SELECT, JOIN, WHERE) |  
+**Платформы** | Web (Chrome, Firefox, Safari) + Mobile responsive |  
