@@ -22,5 +22,5 @@ SQL-запросы для проверки данных в БД, поиска д
 ## Контакты
 - **Телефон:** +7 777 256 53 89
 - **Email:** mail@tsalikhov.ru
-- **Telegram:** [@timuverse] (https://t.me/timuverse)
+- **Telegram:** [@timuverse](https://t.me/timuverse)
 - **Резюме:** [CV.pdf](https://github.com/timsalikhov-qa/TimSalikhov-QA-portfolio-/blob/main/CV(Dec).pdf)
