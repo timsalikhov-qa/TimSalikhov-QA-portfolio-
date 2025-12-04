@@ -1,13 +1,13 @@
 # Тимур Салихов
 **Привет! Я QA Engineer с опытом ручного тестирования. Это портфолио демонстрирует мои практические навыки.**
 
-# [Web Testing](https://github.com/timsalikhov-qa/web-testing-project.git)
+# [Web Testing](https://github.com/timsalikhov-qa/web-testing.git)
 Полный цикл тестирования веб-приложения OrangeHRM: тест-планы, чек-листы, тест-кейсы, баг-репорты.
-# [Test Design (примеры)](https://github.com/timsalikhov/test-design-examples)
+# [Test Design (примеры)](https://github.com/timsalikhov-qa/test-design.git)
 Практическое применение техник тест-дизайна: граничные значения, классы эквивалентности, таблицы решений.
 # [SQL](https://github.com/timsalikhov-qa/sql.git)
 SQL-запросы для проверки данных в БД, поиска дубликатов и анализа целостности.
-# [API Testing (Postman)](https://github.com/timsalikhov-qa/api-testing-postman.git)  
+# [API Testing (Postman)](https://github.com/timsalikhov-qa/api-testing.git)  
 Автоматизированное тестирование REST API с коллекциями Postman, валидацией схем и CI/CD.
 
 # Технические навыки:
